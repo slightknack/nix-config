@@ -1,0 +1,21 @@
+"*":
+  core:
+    autoHideMenuBar: true
+    closeDeletedFileTabs: true
+    telemetryConsent: "no"
+    themes: [
+      "one-dark-ui"
+      "molika-syntax"
+    ]
+  editor:
+    defaultFontSize: 16
+    fontFamily: "IBM Plex Mono"
+    fontSize: 16
+    showIndentGuide: true
+    showInvisibles: true
+  "exception-reporting":
+    userId: "5d0c7a9d-032b-468d-8dc9-50fa7f9f4b21"
+  "linter-ui-default": {}
+  minimap: {}
+  welcome:
+    showOnStartup: false

@@ -1,0 +1,6 @@
+alias hack="cd ~/Repos && ls"
+alias bcup="appimage-run ~/Downloads/Buttercup-linux-x64.AppImage"
+alias nixos="sudo atom /etc/nixos --no-sandbox"
+alias nixos-switch="sudo nixos-rebuild switch"
+alias rm-ss="rm Screenshot*" # lol
+source /home/slightknack/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
